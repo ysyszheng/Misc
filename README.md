@@ -18,13 +18,13 @@ $> python3 ./pptx-generator.py
 ```
 
 ## Output
-### Command Line
+### Command Line Output
 
 - 命令行输出时显示**导入的百分比和总耗时**。
 
 ![part of cmd output](./img/cmd.png)
 
-### PowerPoint file
+### Slide File Output
 
 - 题目页
 
