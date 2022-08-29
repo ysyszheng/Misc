@@ -1,2 +1,5 @@
-[Accessing the text frame](https://python-pptx.readthedocs.io/en/latest/user/text.html#accessing-paragraphs)
-[Python pptx - part of text in cell with different color](https://stackoverflow.com/questions/59032019/python-pptx-part-of-text-in-cell-with-different-color)
+# Miscellaneous
+MY TOY PROJECT
+
+## Projec List
+- [pptx-generator](https://github.com/ysyszheng/Miscellaneous)
