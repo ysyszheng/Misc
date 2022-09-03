@@ -1,6 +1,6 @@
 # PPTX Generator
 
-## Why
+## Motivation
 
 在制作[军事知识竞赛的Slide](./question.pptx)时，需要导入200+题的[题库](./question.md)，并且题目的答案需要**按照特定格式（加粗、变色）处理**。人工制作耗时太长，于是考虑使用`python-pptx`package进行自动化处理。
 
