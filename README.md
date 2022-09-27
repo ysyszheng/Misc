@@ -1,7 +1,9 @@
-# Miscellaneous
-***MY TOY PROJECT***
+# jAccount Captche
 
-Find all projects by [switching branches](https://github.com/ysyszheng/Miscellaneous/branches).
+A Tampermonkey script that automatically fills jAccount captche. Use on website like *https://jaccount.sjtu.edu.cn/jaccount/jalogin?**
 
-## Project List
-- [pptx-generator](https://github.com/ysyszheng/Miscellaneous/tree/pptx-generator)
+## Motivation
+Filling in the captche is really annoooooooooooooying.
+
+## TODO
+- [ ] OCR recognition not accurate
